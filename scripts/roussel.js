@@ -68,7 +68,7 @@ function colorcode() {
             document.getElementById(partials[j].idname).style.color = "orange";
             break;
         case 3:
-            document.getElementById(partials[j].idname).style.color = "yellow";
+          document.getElementById(partials[j].idname).style.color = "mediumturquoise";
             break;
         case 4:
             document.getElementById(partials[j].idname).style.color = "green";
